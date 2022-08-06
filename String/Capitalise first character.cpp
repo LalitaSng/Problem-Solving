@@ -22,5 +22,4 @@ int main()
 {
     string s="sIngH iS kINg";
     cout<<change(s);
-    return 0;
 }
